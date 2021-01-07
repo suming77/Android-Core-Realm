@@ -13,6 +13,12 @@ RecyclerView、Andorid动画、OkHttp与Retrofit的网络请求、多进程、Vi
 
 > OkHttp与Retrofit是当前主流网络请求框架，view的绘制是我们自定义控件的理论基础，只有掌握了view是如何绘制的才能个性化的自定义控件；事件分发一直是Android开发的难点之一，也是必须掌握的；关于handler机制也是android的一块难点，因为包括Asynctask、系统启动、Intentservice等底层都是通过handler来实现的，所以掌握后handler机制不仅能提高你的实战开发能力，更能让你系统的了解整个android系统运作的情况;binder是Android系统进程间通信最重要的手段之一，现阶段app的发展离不开多进程的运用，经常会启动例如定位、推送等需要在后台开启动的进程来来保证主进程的内存运行；所以合理的使用多进程也是十分必要的；性能优化是Android细分领域中最难且也是知识面涉及最深和最广的方向之一；Flutter、热修复、插件化等是发展潮流需要。
 
+> 软技能(已完成)
+[(建议精读)学习之力 — 提高学习效率99%的灵魂秘籍！](https://blog.csdn.net/m0_37796683/article/details/111991593)
+
+> Andorid核心思维导图总览(持续更新……)
+[点击查看大图](https://github.com/FollowExcellence/Android-Core-Realm/blob/main/AndoridCorePlan.png)
+
 ## ⅠUI组件 :beginner:
 
 ### 布局控件
@@ -253,14 +259,14 @@ Android 的官方开发语言，能很好兼容Java，简洁优雅务实安全�
 
 Android系统进程间通信最重要的手段之一
 
-## Ⅺ 性能优化
+## Ⅺ 性能优化 :wrench:
 
 性能优化是Android细分领域中最难且也是知识面涉及最深和最广的方向之一
 
 > [最全面&详细的性能优化攻略](https://blog.csdn.net/m0_37796683/article/details/102590141)
 - 包含内存优化、内存泄漏、绘制优化、布局优化、图片优化、APK优化、多线程优化、列表优化等
 
-## Ⅻ 优秀第三方控件
+## Ⅻ 优秀第三方控件 :man:
 
 ### 图片加载：Glide
 
@@ -294,7 +300,8 @@ Android系统进程间通信最重要的手段之一
 ### 组件化
 
 #### 笔者有话说
-> 在Android源码中最重要的三个类：ActivityManagerService／PackageManagerService／View，推荐大家去阅读下这部分的源码，阅读源码能提高我们今后设计架构自己代码的能力，同时也能从底层了解整个android系统的运行原理，其他一些比如主线程的消息循环、主线程如何和AMS如何跨进程交互、SystemServer进程中的各种Service的工作方式、AsyncTask的工作原理等。这些知识也是作为一个Android高级开发工程师必须掌握的，不能整天沉溺于ui和四大组件的交互，要站在更高的角度去考虑Android的有些问题。
+
+在Android源码中最重要的三个类：ActivityManagerService／PackageManagerService／View，推荐大家去阅读下这部分的源码，阅读源码能提高我们今后设计架构自己代码的能力，同时也能从底层了解整个android系统的运行原理，其他一些比如主线程的消息循环、主线程如何和AMS如何跨进程交互、SystemServer进程中的各种Service的工作方式、AsyncTask的工作原理等。这些知识也是作为一个Android高级开发工程师必须掌握的，不能整天沉溺于ui和四大组件的交互，要站在更高的角度去考虑Android的有些问题。
 
 欢迎在 Issue 中提交对本仓库的改进建议~
 
@@ -323,10 +330,10 @@ Android系统进程间通信最重要的手段之一
 
 ## 赞赏
 
-如果这个库对您有很大帮助，您愿意支持这个项目的进一步开发和这个项目的持续维护。你可以扫描下面的二维码，打赏我一粒糖果或者一杯咖啡。非常感谢您的捐赠。祝您百尺竿头更进一步！
+如果这个库对您有很大帮助，您愿意支持这个项目的进一步开发和持续维护。您可以扫描下面的二维码，打赏我一颗糖果或者一杯咖啡，非常感谢您的捐赠。祝您百尺竿头更进一步！
 
 <div align="center">
- <img src="https://img-blog.csdnimg.cn/2021010710192727.jpg" width=20%>
- <img src="https://img-blog.csdnimg.cn/20210107101926992.jpg" width=20%>
+<img src="https://github.com/FollowExcellence/Android-Core-Realm/blob/main/alpay.jpg" width=20%>
+<img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Interview/master/screenshot/Apaliy.jpg" width=20%>
 </div>
 
