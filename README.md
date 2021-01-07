@@ -13,11 +13,11 @@ RecyclerView、Andorid动画、OkHttp与Retrofit的网络请求、多进程、Vi
 
 > OkHttp与Retrofit是当前主流网络请求框架，view的绘制是我们自定义控件的理论基础，只有掌握了view是如何绘制的才能个性化的自定义控件；事件分发一直是Android开发的难点之一，也是必须掌握的；关于handler机制也是android的一块难点，因为包括Asynctask、系统启动、Intentservice等底层都是通过handler来实现的，所以掌握后handler机制不仅能提高你的实战开发能力，更能让你系统的了解整个android系统运作的情况;binder是Android系统进程间通信最重要的手段之一，现阶段app的发展离不开多进程的运用，经常会启动例如定位、推送等需要在后台开启动的进程来来保证主进程的内存运行；所以合理的使用多进程也是十分必要的；性能优化是Android细分领域中最难且也是知识面涉及最深和最广的方向之一；Flutter、热修复、插件化等是发展潮流需要。
 
-> 软技能(已完成)
-[(建议精读)学习之力 — 提高学习效率99%的灵魂秘籍！](https://blog.csdn.net/m0_37796683/article/details/111991593)
+- 软技能(已完成)
+> [(建议精读)学习之力 — 提高学习效率99%的灵魂秘籍！](https://blog.csdn.net/m0_37796683/article/details/111991593)
 
-> Andorid核心思维导图总览(持续更新……)
-[点击查看大图](https://github.com/FollowExcellence/Android-Core-Realm/blob/main/AndoridCorePlan.png)
+- Andorid核心思维导图总览(持续更新……)
+> [点击查看大图](https://github.com/FollowExcellence/Android-Core-Realm/blob/main/AndoridCorePlan.png)
 
 ## ⅠUI组件 :beginner:
 
@@ -334,6 +334,5 @@ Android系统进程间通信最重要的手段之一
 
 <div align="center">
 <img src="https://github.com/FollowExcellence/Android-Core-Realm/blob/main/alpay.jpg" width=20%>
-<img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Interview/master/screenshot/Apaliy.jpg" width=20%>
+<img src="https://github.com/FollowExcellence/Android-Core-Realm/blob/main/wechatpay.jpg" width=20%>
 </div>
-
