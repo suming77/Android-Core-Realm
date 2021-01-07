@@ -326,6 +326,7 @@ Android系统进程间通信最重要的手段之一
 如果这个库对您有很大帮助，您愿意支持这个项目的进一步开发和这个项目的持续维护。你可以扫描下面的二维码，打赏我一粒糖果或者一杯咖啡。非常感谢您的捐赠。祝您百尺竿头更进一步！
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Interview/master/screenshot/wexin_play.jpg" width=20%><img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Interview/master/screenshot/Apaliy.jpg" width=20%>
+ <img src="https://img-blog.csdnimg.cn/2021010710192727.jpg" width=20%>
+ <img src="https://img-blog.csdnimg.cn/20210107101926992.jpg" width=20%>
 </div>
 
