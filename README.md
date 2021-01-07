@@ -323,8 +323,8 @@ Android系统进程间通信最重要的手段之一
 
 ### About me
 
-- #### 微信：[SUM_817]
-- #### Email：[su_mingyan@163.com]
+- #### 微信：`SUM_817`
+- #### Email：`su_mingyan@163.com`
 - #### Blog：[https://blog.csdn.net/m0_37796683/](https://blog.csdn.net/m0_37796683/)
 
 
@@ -336,3 +336,4 @@ Android系统进程间通信最重要的手段之一
 <img src="https://github.com/FollowExcellence/Android-Core-Realm/blob/main/alpay.jpg" width=20%>
 <img src="https://github.com/FollowExcellence/Android-Core-Realm/blob/main/wechatpay.jpg" width=20%>
 </div>
+
