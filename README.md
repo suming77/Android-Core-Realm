@@ -86,10 +86,10 @@ Android动画有两种类型的动画View Animation(视图动画)和Property Ani
 > [Android动画(三、基础篇)](https://blog.csdn.net/m0_37796683/article/details/90440702)
 - 属性动画ValueAnimator的基本使用
 
-> [Android动画(四、基础篇)](https://blog.csdn.net/m0_37796683/article/details/90607428)
+> [Android动画(四、基础篇)](https://blog.csdn.net/m0_37796683/article/details/90483462)
 - 属性动画ObjectAnimator基本使用以及属性详解
 
-> [Android动画(五、进阶篇)](https://blog.csdn.net/m0_37796683/article/details/90483462)
+> [Android动画(五、进阶篇)](https://blog.csdn.net/m0_37796683/article/details/90607428)
 - 插值器(Interpolator)、计算器(Evaluator)、ValueAnimator的ofObject用法等相关知识
 
 > [Android动画(六、组合篇)](https://blog.csdn.net/m0_37796683/article/details/90645047)
@@ -248,6 +248,9 @@ Android 的官方开发语言，能很好兼容Java，简洁优雅务实安全�
 
 > [Kotlin基础「二十二」](https://blog.csdn.net/m0_37796683/article/details/110234137)
 - Lambdas和高阶函数详解
+
+> [Kotlin基础「二十三」](https://blog.csdn.net/m0_37796683/article/details/111051521)
+- 引用的使用 :: （类引用、属性引用、函数引用、绑定引用）
 
 (未完成)
 
