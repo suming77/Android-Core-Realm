@@ -255,6 +255,8 @@ Android 的官方开发语言，能很好兼容Java，简洁优雅务实安全�
 > [Kotlin基础「二十四」](https://blog.csdn.net/m0_37796683/article/details/108646530)
 - 注解：声明、应用、元注解
 
+> [Kotlin基础「二十五」](https://blog.csdn.net/m0_37796683/article/details/113603323)
+- 反射：KClass、KCallable、 KFunction、 KProperty
 
 (未完成)
 
