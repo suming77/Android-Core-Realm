@@ -258,7 +258,15 @@ Android 的官方开发语言，能很好兼容Java，简洁优雅务实安全�
 > [Kotlin基础「二十五」](https://blog.csdn.net/m0_37796683/article/details/113603323)
 - 反射：KClass、KCallable、 KFunction、 KProperty
 
-(未完成)
+### Kotlin 协程学习三部曲
+
+> [Kotlin 协程实战进阶(一、筑基篇)](https://juejin.cn/post/6987724340775108622#heading-28)
+- 协程的概念和原理、协程框架的基础使用、挂起函数以及挂起与恢复等
+> [Kotlin 协程实战进阶(二、进阶篇)]()（进行中）
+- 协程的高级用法、Flow、Channel等
+> [Kotlin 协程实战进阶(三、原理篇)]()（进行中）
+- 协程的底层原理
+
 
 ### Kotlin协程
 
