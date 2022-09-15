@@ -260,15 +260,13 @@ Android 的官方开发语言，能很好兼容Java，简洁优雅务实安全�
 
 ### Kotlin 协程学习三部曲
 
-> [Kotlin 协程实战进阶(一、筑基篇)](https://juejin.cn/post/6987724340775108622#heading-28)
+> [Kotlin 协程实战进阶(一、筑基篇)](https://juejin.cn/post/6987724340775108622)
 - 协程的概念和原理、协程框架的基础使用、挂起函数以及挂起与恢复等
-> [Kotlin 协程实战进阶(二、进阶篇)](https://juejin.cn/post/6992629783674748936)（进行中）
+> [Kotlin 协程实战进阶(二、进阶篇)](https://juejin.cn/post/6992629783674748936)
 - 协程的高级用法、Flow、Channel等
-> [Kotlin 协程实战进阶(三、原理篇)]()（进行中）
-- 协程的底层原理
+> [Kotlin 协程实战进阶(三、原理篇)](https://juejin.cn/post/7143386748783968292)
+- 协程的底层原理：状态机，挂起与恢复，线程切换原理
 
-
-### Kotlin协程
 
 ### Jetpack组件
 
