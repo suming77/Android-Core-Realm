@@ -273,8 +273,14 @@ Android 的官方开发语言，能很好兼容Java，简洁优雅务实安全�
 > [Wan_Android实战开源项目](https://juejin.cn/post/7223767530981867557)
 - 大型Android项目架构：基于组件化+模块化+短视频+Kotlin+协程+Flow+Retrofit+Jetpack+MVVM架构实现WanAndroid客户端
 
-> [Navigation原理](https://juejin.cn/post/7241184271318515773)
-- Navigation架构设计原理剖析
+> [浅谈 Android Jetpack - Navigation的架构设计](https://juejin.cn/post/7241184271318515773)
+- Navigation实战，架构设计原理剖析
+
+> [Android架构灵魂组件Lifecycle的生命周期机制详解](https://juejin.cn/post/7243413934765195323)
+- Lifecycle的使用，架构设计，生命周期机制
+
+> [由浅入深，ViewModel配置变更复用原理详解](https://juejin.cn/post/7245980207316189242)
+- ViewModel实战、因配置变更保存和复用机制详解
 ## Ⅹ进程通信 :phone:
 
 Android系统进程间通信最重要的手段之一
