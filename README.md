@@ -281,6 +281,9 @@ Android 的官方开发语言，能很好兼容Java，简洁优雅务实安全�
 
 > [由浅入深，ViewModel配置变更复用原理详解](https://juejin.cn/post/7245980207316189242)
 - ViewModel实战、因配置变更保存和复用机制详解
+
+> [关于LiveData全面详解（附事件总线）](https://juejin.cn/post/7251182449400414265)
+- LiveData全面详解，附事件总线
 ## Ⅹ进程通信 :phone:
 
 Android系统进程间通信最重要的手段之一
